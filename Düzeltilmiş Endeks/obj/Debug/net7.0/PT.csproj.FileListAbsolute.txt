@@ -1,0 +1,14 @@
+C:\Users\osman\source\repos\PT\bin\Debug\net7.0\PT.exe
+C:\Users\osman\source\repos\PT\bin\Debug\net7.0\PT.deps.json
+C:\Users\osman\source\repos\PT\bin\Debug\net7.0\PT.runtimeconfig.json
+C:\Users\osman\source\repos\PT\bin\Debug\net7.0\PT.dll
+C:\Users\osman\source\repos\PT\bin\Debug\net7.0\PT.pdb
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.AssemblyInfo.cs
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.dll
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\refint\PT.dll
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.pdb
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\PT.genruntimeconfig.cache
+C:\Users\osman\source\repos\PT\obj\Debug\net7.0\ref\PT.dll
